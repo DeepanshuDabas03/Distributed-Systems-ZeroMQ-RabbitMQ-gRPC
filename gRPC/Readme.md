@@ -96,3 +96,9 @@ For fetching notifications, a continuous thread is running in the background whi
 
 4. Run the seller script to interact with the platform as a seller and register and add products. Buyer than can wishlist a product and also can make purchases.
 
+
+
+## Contributors:
+
+-	This project was developed by Deepanshu Dabas and Rudra Jyotirmay as part of Assignment 1.
+
